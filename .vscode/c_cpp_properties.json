@@ -9,7 +9,10 @@
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
-            ]
+            ],
+            "cppStandard": "c++17",
+            "cStandard": "c17",
+            "compilerPath": "C:/MinGW/bin/gcc.exe"
         }
     ],
     "version": 4
